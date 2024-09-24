@@ -1,0 +1,13 @@
+html, body {
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+}
+
+.card {
+    border-radius: 10px;
+}
+
+#output {
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    min-height: 50px;
+}
